@@ -4,7 +4,7 @@
  <img align="right"  width="400" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" alt="Coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1-dark&label=Profile%20views&color=0e75b6&style=flat" alt="1-DARK" /> </p>
 
-- 🌱 I’m currently learning **REACT NATIVE**
+- 🌱 I’m currently learning **REACT JS**
 
 - ⚡ Fun fact **I am funny**
 
