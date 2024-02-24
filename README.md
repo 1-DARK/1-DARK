@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQFtBscRwr-YBw/profile-displaybackgroundimage-shrink_350_1400/0/1707459093742?e=1714003200&v=beta&t=PWOZhSD1L-b1ygoSgaWQmXbkCHBEa8Mli-4262DKjug)
 <h1 align="center">Hi 👋, I'm HARSH VARDHAN CHAUHAN</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-stack developer from India</h3>
  <img align="right"  width="400" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" alt="Coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1-dark&label=Profile%20views&color=0e75b6&style=flat" alt="1-DARK" /> </p>
 
