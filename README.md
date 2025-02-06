@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm HARSH VARDHAN CHAUHAN</h1>
-<h3 align="center">A passionate Full-stack developer from India.</h3>
+<h3 align="center">A passionate MERN Stack developer from India.</h3>
  <img align="right"  width="400" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" alt="Coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1-dark&label=Profile%20views&color=0e75b6&style=flat" alt="1-DARK" /> </p>
 
-- 🌱 I’m currently learning **REACT JS**
+- 🌱 I’m currently learning **MERN STACK**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
