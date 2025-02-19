@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=1-dark&label=Profile%20views&color=0e75b6&style=flat" alt="harsh2027" /> 
 </p>
 
-- 🌱 I’m currently learning **Node.js,Next.js**  
+- 🌱 I’m currently learning **Node.js**  
 - 💬 Ask me about **React, JavaScript**  
 - 📫 How to reach me: **harshvardhanchauhan776@gmail.com**  
 
