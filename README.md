@@ -20,7 +20,11 @@
   </a>
   <a href="https://www.instagram.com/_h.a_r_s.h_/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh_2027" height="30" width="40" />
-  </a>
+  </a><a href="https://x.com/CodeWithHarsh_" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your_twitter_handle" height="30" width="40" />
+</a>
+
+  
   <a href="https://discord.com/invite/harsh034530" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="harsh_2027" height="30" width="40" />
   </a>
