@@ -6,8 +6,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=1-dark&label=Profile%20views&color=0e75b6&style=flat" alt="harsh2027" /> 
 </p>
-
-- 🌱 I’m currently learning **Node.js**  
+ 
 - 💬 Ask me about **React, JavaScript**  
 - 📫 How to reach me: **harshvardhanchauhan776@gmail.com**  
 
@@ -56,9 +55,10 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> 
   </a> 
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" width="40" height="40" />
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="expressjs" width="80" style="background: white;" />
 </a>
+
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> 
   </a> 
