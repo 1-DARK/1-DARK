@@ -8,13 +8,15 @@
   <img src="https://komarev.com/ghpvc/?username=1-dark&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+---
 
 ## About Me
 
 - Reach me at: **harshvardhanchauhan776@gmail.com**
+
 ---
 
-##  Tech Stack
+## Tech Stack
 
 | Category | Technologies | Icons |
 |----------|--------------|-------|
@@ -25,4 +27,5 @@
 | **Cloud (AWS)** | EC2, VPC, IAM, S3, RDS, ELB, Lambda, ECR, ECS, CloudWatch, CloudFormation | <img src="https://skillicons.dev/icons?i=aws" /> |
 | **DevOps** | Docker, Kubernetes, Terraform, GitHub Actions | <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions" /> |
 | **Tools** | Git, Postman, Clerk | <img src="https://skillicons.dev/icons?i=git,postman" /> |
+
 ---
