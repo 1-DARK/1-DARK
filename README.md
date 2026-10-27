@@ -1,32 +1,31 @@
-<h1 align="center">Hi 👋, I'm Harsh Vardhan Chauhan</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h1 align="center">I'm Harsh Vardhan Chauhan</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1-dark&label=Profile%20views&color=0e75b6&style=flat" alt="harsh2027" />
+  Full-Stack Developer
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=1-dark&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-### About Me
+## About Me
+
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
--  Ask me about **React, JavaScript, and Backend Architecture**
--  Reach me at: **harshvardhanchauhan776@gmail.com**
--  Fun fact: I love building scalable full-stack applications.
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/chauhan26102006"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/CodeWithHarsh_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://discord.com/invite/harsh034530"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
-
+- Reach me at: **harshvardhanchauhan776@gmail.com**
 ---
 
-###  Languages and Tools
-<p align="left">
-   <img src="https://skillicons.dev/icons?i=c,cpp,python" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,mysql,ts,tailwind,figma" /><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,postgres,redis,docker" /><br>
-</p>
+##  Tech Stack
 
+| Category | Technologies | Icons |
+|----------|--------------|-------|
+| **Languages** | C++, JavaScript, TypeScript | <img src="https://skillicons.dev/icons?i=cpp,js,ts" /> |
+| **Frontend** | HTML, CSS, Tailwind CSS, React.js, Next.js | <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" /> |
+| **Backend** | Node.js, Express.js, REST APIs | <img src="https://skillicons.dev/icons?i=nodejs,express" /> |
+| **Databases & Caching** | MongoDB, PostgreSQL, Redis | <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" /> |
+| **Cloud (AWS)** | EC2, VPC, IAM, S3, RDS, ELB, Lambda, ECR, ECS, CloudWatch, CloudFormation | <img src="https://skillicons.dev/icons?i=aws" /> |
+| **DevOps** | Docker, Kubernetes, Terraform, GitHub Actions | <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions" /> |
+| **Tools** | Git, Postman, Clerk | <img src="https://skillicons.dev/icons?i=git,postman" /> |
 ---
