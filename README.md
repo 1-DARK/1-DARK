@@ -8,11 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=1-dark&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
----
 
 ## About Me
-
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - Reach me at: **harshvardhanchauhan776@gmail.com**
 ---
